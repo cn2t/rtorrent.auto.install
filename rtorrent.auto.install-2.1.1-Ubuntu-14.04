@@ -141,7 +141,7 @@ if [ -d /var/www/html/rutorrent ]; then
 fi
 
 mv -f rutorrent /var/www/html/
-rm -v rutorrent-3.6.tar.gz
+rm -v ruTorrent-3.7.zip
 
 # Installing Plugins.
 

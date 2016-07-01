@@ -133,8 +133,8 @@ fi
 
 # Installing rutorrent.
 
-wget http://dl.bintray.com/novik65/generic/rutorrent-3.6.tar.gz
-tar -zxvf rutorrent-3.6.tar.gz
+wget https://bintray.com/artifact/download/novik65/generic/ruTorrent-3.7.zip
+unzip ruTorrent-3.7.zip
 
 if [ -d /var/www/html/rutorrent ]; then
 	rm -r /var/www/html/rutorrent

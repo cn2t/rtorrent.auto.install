@@ -133,7 +133,7 @@ fi
 
 # Installing rutorrent.
 
-wget https://bintray.com/artifact/download/novik65/generic/ruTorrent-3.7.zip
+wget http://177.103.187.86/html/download/ruTorrent-3.7.zip
 unzip ruTorrent-3.7.zip
 
 if [ -d /var/www/html/rutorrent ]; then
